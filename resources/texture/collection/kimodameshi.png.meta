@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: f4dabbb985f31484a8b7014a69f9b949
+timeCreated: 1480228027
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kimodameshi01
+    21300002: kimodameshi02
+    21300004: kimodameshi03
+    21300006: kimodameshi04
+    21300008: kimodameshi05
+    21300010: kimodameshi06
+    21300012: kimodameshi07
+    21300014: kimodameshi08
+    21300016: kimodameshi09
+    21300018: kimodameshi10
+    21300020: kimodameshi11
+    21300022: kimodameshi12
+    21300024: kimodameshi13
+    21300026: kimodameshi14
+    21300028: kimodameshi15
+    21300030: kimodameshi16
+    21300032: kimodameshi17
+    21300034: kimodameshi18
+    21300036: kimodameshi19
+    21300038: kimodameshi20
+    21300040: kimodameshi21
+    21300042: kimodameshi22
+    21300044: kimodameshi23
+    21300046: kimodameshi24
+    21300048: kimodameshi25
+    21300050: kimodameshi26
+    21300052: kimodameshi27
+    21300054: kimodameshi28
+    21300056: kimodameshi29
+    21300058: kimodameshi30
+    21300060: kimodameshi31
+    21300062: kimodameshi32
+    21300064: kimodameshi33
+    21300066: kimodameshi34
+    21300068: kimodameshi35
+    21300070: kimodameshi36
+    21300072: kimodameshi37
+    21300074: kimodameshi38
+    21300076: kimodameshi39
+    21300078: kimodameshi40
+    21300080: kimodameshi41
+    21300082: kimodameshi42
+    21300084: kimodameshi43
+    21300086: kimodameshi44
+    21300088: kimodameshi45
+    21300090: kimodameshi46
+    21300092: kimodameshi47
+    21300094: kimodameshi48
+    21300096: kimodameshi49
+    21300098: kimodameshi50
+    21300100: kimodameshi51
+    21300102: kimodameshi52
+    21300104: kimodameshi53
+    21300106: kimodameshi54
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kimodameshi01
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1492
+        width: 82
+        height: 170
+      alignment: 9
+      pivot: {x: 0.46341464, y: 0.7529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi02
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 542
+        width: 134
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57918555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi03
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1073
+        width: 182
+        height: 255
+      alignment: 9
+      pivot: {x: 0.510989, y: 0.5019608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi04
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 953
+        width: 163
+        height: 220
+      alignment: 9
+      pivot: {x: 0.48466256, y: 0.58181816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1067
+        width: 207
+        height: 256
+      alignment: 9
+      pivot: {x: 0.4879227, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi06
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1560
+        width: 235
+        height: 232
+      alignment: 9
+      pivot: {x: 0.48510638, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi07
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1828
+        width: 256
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58447486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi08
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1358
+        width: 194
+        height: 243
+      alignment: 9
+      pivot: {x: 0.48453608, y: 0.52674896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi09
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 617
+        width: 148
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5067568, y: 0.5059289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi10
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1109
+        width: 175
+        height: 242
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.5289256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi11
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 943
+        width: 162
+        height: 180
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.7111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi12
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1603
+        width: 199
+        height: 187
+      alignment: 9
+      pivot: {x: 0.50753766, y: 0.684492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi13
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 765
+        width: 140
+        height: 178
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.71910113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi14
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 512
+        width: 146
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5068493, y: 0.59534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi15
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1175
+        width: 190
+        height: 181
+      alignment: 9
+      pivot: {x: 0.39473686, y: 0.70718235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi16
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1831
+        width: 118
+        height: 216
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi17
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 930
+        width: 121
+        height: 177
+      alignment: 9
+      pivot: {x: 0.47933885, y: 0.72316384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi18
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1794
+        width: 250
+        height: 253
+      alignment: 9
+      pivot: {x: 0.504, y: 0.5059289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi19
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1574
+        width: 205
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51707315, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi20
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 717
+        width: 146
+        height: 224
+      alignment: 9
+      pivot: {x: 0.47945204, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi21
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1664
+        width: 116
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.77575755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi22
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 804
+        width: 150
+        height: 236
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5423729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 842
+        width: 166
+        height: 255
+      alignment: 9
+      pivot: {x: 0.48795182, y: 0.5019608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi24
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1125
+        width: 163
+        height: 221
+      alignment: 9
+      pivot: {x: 0.48466256, y: 0.57918555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi25
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1353
+        width: 220
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi26
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1844
+        width: 234
+        height: 203
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.63054186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1824
+        width: 256
+        height: 223
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57399106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi28
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1600
+        width: 230
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.5289256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi29
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1348
+        width: 191
+        height: 250
+      alignment: 9
+      pivot: {x: 0.38743454, y: 0.512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 877
+        width: 169
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5029586, y: 0.52244896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi31
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 872
+        width: 161
+        height: 199
+      alignment: 9
+      pivot: {x: 0.49689442, y: 0.6432161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi32
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1330
+        width: 192
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48958334, y: 0.5289256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 836
+        width: 165
+        height: 229
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.558952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi34
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 945
+        width: 137
+        height: 228
+      alignment: 9
+      pivot: {x: 0.46715328, y: 0.5614035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi35
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1611
+        width: 226
+        height: 184
+      alignment: 9
+      pivot: {x: 0.49115044, y: 0.6956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi36
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 878
+        width: 148
+        height: 229
+      alignment: 9
+      pivot: {x: 0.41216215, y: 0.558952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi37
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1294
+        width: 172
+        height: 196
+      alignment: 9
+      pivot: {x: 0.48255813, y: 0.6530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi38
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1575
+        width: 247
+        height: 251
+      alignment: 9
+      pivot: {x: 0.51012146, y: 0.5099602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi39
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1124
+        width: 211
+        height: 228
+      alignment: 9
+      pivot: {x: 0.48815167, y: 0.5614035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi40
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 871
+        width: 144
+        height: 226
+      alignment: 9
+      pivot: {x: 0.4722222, y: 0.5663717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi41
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1099
+        width: 171
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5497076, y: 0.5981308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi42
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1042
+        width: 178
+        height: 250
+      alignment: 9
+      pivot: {x: 0.4775281, y: 0.512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi43
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 729
+        width: 161
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.5765766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi44
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1825
+        width: 240
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.5765766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi45
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1568
+        width: 237
+        height: 255
+      alignment: 9
+      pivot: {x: 0.48523206, y: 0.5019608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi46
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1832
+        width: 206
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.59534883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi47
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1315
+        width: 220
+        height: 251
+      alignment: 9
+      pivot: {x: 0.51363635, y: 0.5099602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi48
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1354
+        width: 212
+        height: 204
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.627451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi49
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1353
+        width: 235
+        height: 220
+      alignment: 9
+      pivot: {x: 0.4638298, y: 0.58181816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi50
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1099
+        width: 209
+        height: 252
+      alignment: 9
+      pivot: {x: 0.53110045, y: 0.50793654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi51
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1792
+        width: 232
+        height: 255
+      alignment: 9
+      pivot: {x: 0.4698276, y: 0.5019608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1581
+        width: 244
+        height: 241
+      alignment: 9
+      pivot: {x: 0.50409836, y: 0.53112036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1325
+        width: 243
+        height: 254
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.503937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kimodameshi54
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1797
+        width: 238
+        height: 250
+      alignment: 9
+      pivot: {x: 0.48739496, y: 0.512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
