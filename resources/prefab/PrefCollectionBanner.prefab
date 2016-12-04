@@ -143,6 +143,7 @@ GameObject:
   - 114: {fileID: 114000011119118572}
   - 114: {fileID: 114000012254095776}
   - 114: {fileID: 114000011212820892}
+  - 114: {fileID: 114000011325065806}
   m_Layer: 5
   m_Name: PrefCollectionBanner
   m_TagString: Untagged
@@ -325,6 +326,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_imgIcon: {fileID: 114000014249224124}
+  utilswitchsprite: {fileID: 114000011325065806}
   m_txtName: {fileID: 114000011554301088}
   m_ctrlRarestars: {fileID: 114000012078630826}
   m_ctrlUserParam: {fileID: 114000012037474436}
@@ -333,6 +335,26 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEventInt, Assembly-CSharp, Version=1.2.0.0, Culture=neutral,
       PublicKeyToken=null
+--- !u!114 &114000011325065806
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012286050926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecb14c79234564c198c611529bb207c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_bSizeSet: 0
+  m_iWidth: 0
+  m_iHeight: 0
+  m_eStep: 0
+  m_eStepPre: 0
+  m_sprite: {fileID: 0}
+  m_spriteImage: {fileID: 114000014249224124}
+  m_sprRenderer: {fileID: 0}
+  m_strSpriteName: 
 --- !u!114 &114000011511590560
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -675,7 +697,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: fd2be721d1d849f4896cc43d93f99278, type: 3}
+  m_Sprite: {fileID: 21300108, guid: 2d9934a8ac75f314abe8219c9b9ac11f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -940,9 +962,9 @@ RectTransform:
   m_RootOrder: 0
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 10, y: 0}
+  m_AnchoredPosition: {x: 60, y: 0}
   m_SizeDelta: {x: 100, y: 100}
-  m_Pivot: {x: 0, y: 0.5}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224000012219564252
 RectTransform:
   m_ObjectHideFlags: 1
